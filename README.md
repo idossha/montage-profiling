@@ -5,6 +5,8 @@ This project analyzes temporal interference stimulation data to identify emergin
 ## Project Overview
 We used 13 across three subjects to examine the focality and intensity of different electrode configurations. This analysis aims to uncover trends in how various montages affect stimulation patterns.
 
+![Summary of Results](./summary.png)
+
 ## Project Structure
 - **Data Files**: 
   - `.txt` files with focality and intensity values for each subject.
