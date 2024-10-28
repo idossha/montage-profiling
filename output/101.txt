@@ -1,0 +1,36 @@
+101
+
+Focality at 50% cut off (cm3
+)
+Little_Pairs: 88.7314
+Nested(Narrow): 318.4678
+Nested: 194.7212
+Parallel_Horizontal(Narrow): 271.2873
+Parallel_Horizontal(Wide):228.3907 
+Parallel_Horizontal: 259.6992
+Parallel_Vertical(Narrow): 171.7763
+Parallel_Vertical(Wide): 114.6494
+Parallel_Vertical: 175.4869
+V_Montage(Narrow):25.9698
+V_Montage(ShiftedNorth): 113.3618
+V_Montage: 79.5383
+X_Montage(Narrow): 239.7044
+X_Montage(Wide): 
+X_Montage: 497.2436
+
+V/m in at the 99.9 Percentile
+Little_Pairs: 0.28568
+Nested(Narrow):1.6734
+Nested: 2.2789
+Parallel_Horizontal(Narrow): 2.1978
+Parallel_Horizontal(Wide): 1.2698
+Parallel_Horizontal: 1.5261
+Parallel_Vertical(Narrow): 2.0357
+Parallel_Vertical(Wide): 0.78987
+Parallel_Vertical: 1.0107
+V_Montage(Narrow):1.3047
+V_Montage(ShiftedNorth):1.8946
+V_Montage:2.8829
+X_Montage(Narrow): 2.0709
+X_Montage(Wide): 
+X_Montage: 1.6752

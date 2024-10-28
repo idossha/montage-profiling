@@ -1,0 +1,36 @@
+Ernie
+
+Focality at 50% cut off (cm3
+)
+Little_Pairs: 60.1787
+Nested(Narrow): 254.6931
+Nested: 200.7443
+Parallel_Horizontal(Narrow):194.7329
+Parallel_Horizontal(Wide):212.2935
+Parallel_Horizontal:226.2068
+Parallel_Vertical(Narrow): 155.5214
+Parallel_Vertical(Wide):141.3823 
+Parallel_Vertical: 162.3478
+V_Montage(Narrow):63.1713
+V_Montage(ShiftedNorth):126.3918
+V_Montage: 26.7392
+X_Montage(Narrow):217.5366
+X_Montage(Wide): 226.2087
+X_Montage:311.4718
+
+V/m in at the 99.9 Percentile
+Little_Pairs: 0.27574
+Nested(Narrow):1.5731
+Nested: 2.0221
+Parallel_Horizontal(Narrow):2.1122
+Parallel_Horizontal(Wide): 1.025
+Parallel_Horizontal:1.3727
+Parallel_Vertical(Narrow): 1.7308
+Parallel_Vertical(Wide):0.70032
+Parallel_Vertical:0.91726
+V_Montage(Narrow):1.0946
+V_Montage(ShiftedNorth):1.489
+V_Montage:2.2769 
+X_Montage(Narrow):1.7012
+X_Montage(Wide): 1.4175
+X_Montage:1.6643
